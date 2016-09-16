@@ -9,3 +9,34 @@
 	background:rgba(39,113,163,0.7);
 	width:100%;
 }
+.add-event-pic{
+	margin:2em -1.8em 0em 6em;
+	height:30px;
+	width:30px;
+}
+.event-wrapper{
+	margin:1em 1em 1em 1em;
+	max-height:20em;
+	max-width:80em;
+}
+.event-cards-container{
+	
+}
+.event-cards-hover:hover{
+	margin:-1px;
+	border:solid 1px #A7A9A3;
+}
+#header-text{
+	margin:2em 0em 0em 6em;
+}
+#event-pics{
+	margin:1em;
+	max-width: 19em;
+	max-height: 14em;
+}
+.event-header{
+	margin:.1em .2em .2em 2em;
+}
+.event-description{
+	margin:.1em .2em .2em 2em;
+}
