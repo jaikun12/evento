@@ -5,6 +5,7 @@
 				<div class="card-text-container">
 					<p class="card-title">Bluemix Challenge ITIP Edition</p>
 					<div class="divider"></div>
+					<p class="card-sched"><strong>FREE</strong> | Invite-Only<br>
 					<p class="card-sched"><strong>Attendees:</strong> 89<br><br>
 						Saturday, Oct 1, 2016<br>
 						Mckinley Hill, Taguig City</p>

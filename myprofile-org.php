@@ -11,18 +11,22 @@
 	<body>
 		<?php
 			include("boilers/nav.php");
-			include("boilers/sidenav-myevents.php");
-			?>
+			include("boilers/sidenav-event-monitoring.php");
+		?>
 
 		
 		<div class="main-content">
-			<?php
-				include("boilers/event-bluemix.php");
 
-				
-				include("boilers/new-event-card.php");
-				?>
-				
+		<div class="col-md-4">
+			<img src="images/devcon-img.png">
+		</div>
+
+		<div class="col-md-8">
+			<h2>Developers Connect Philippines (DevCon)</h2><br>
+			DevCon is a non-proﬁt organization which aims to promote the "IT Pinoy Talent" mainly by providing a unique venue for IT students, educators, professionals and enthusiasts to Sync, Support and Succeed.
+			<br><br>Website: <a href="http://devcon.ph/">http://devcon.ph/</a>
+		</div>
+
 		</div>
 
 
