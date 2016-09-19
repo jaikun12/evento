@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 	<head>
 		<link href="https://fonts.googleapis.com/css?family=Open+Sans|Roboto" rel="stylesheet"> 
@@ -22,8 +22,10 @@
 					<div class="form-group">
 						<button type="submit" class="button-1">Login</button>
 					</div>
+					
+					<a href="registration.php">No account yet? Register here.</a>
 				</form>
-				<br>
+				
 				<button class="btn-facebook" style="padding:10px 50px">Sign up with Facebook</button>
 
 			</center>

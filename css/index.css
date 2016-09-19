@@ -9,9 +9,11 @@ body{
 }
 
 .main-content{
+	margin-top:-20px;
 	height:100vh;
 	width:100vw;
 	background:rgba(39,113,163,0.7);
+	overflow:hidden;
 }
 
 .main-logo{

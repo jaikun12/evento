@@ -2,47 +2,45 @@
 <html>
 	<head>
 		<link href="https://fonts.googleapis.com/css?family=Open+Sans|Roboto" rel="stylesheet"> 
-		<link rel="stylesheet" type="text/css" href="css/bootstrap-material-design.min.css">
 		<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
-		<link rel="stylesheet" type="text/css" href="css/events.css">
 		<link rel="stylesheet" type="text/css" href="css/nav.css">
+		<link rel="stylesheet" type="text/css" href="css/cards.css">
+		<link rel="stylesheet" type="text/css" href="css/dashboard.css">
 	</head>
 	<body>
-
-		<nav class="main-nav">
-			<!--img src="images/evento-logo-white.png" class="brand"-->
+		<nav>
+			<img class="brand" src="images/evento-logo-white.png">
+			<ul id="nav-menu" class="list-inline">
+				<li><a href="#">Home</a></li>
+				<li><a href="live-routes.php">My Events</a></li>
+				<li><a href="sensurge-analytics.php">My Participants</a></li>
+			</ul>
 		</nav>
 
-		<div class="container-fluid row nav-title">
-			<div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
-				<h3 id="header-text">My Events</h3>
-			</div>
-			<div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
-				<h3 id="header-text"></h3>
-			</div>
-			<div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
-				<h3 id="header-text"></h3>
-			</div>
-			<a class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
-				<img src="images/add-event-icon.png" style="width:25px;height:25px;">
-			</a>
+		<div class="side-nav">
+			<h3>My Events</h3>
+			<ul id="side-nav-items" class="list-group">
+				<a href="#"><li class="list-group-item">General</li></a>
+				<a href="dashboard-history.php"><li class="list-group-item">History</li></a>
+			</ul>
+		</div>
+		<div class="main-content">
+			<?php
+				include("boilers/event-card.php");
+				
+				include("boilers/new-event-card.php");
+				?>
+
+
+
 			
 		</div>
 
-		<div class="container-fluid body-wrapper">
+		<script src="js/bootstrap.min.js"></script>
+		<script src="js/jquery-2.2.0.min.js"></script>
+	</body>
+</html>
 
-		<div class="event-list-wrapper">
-			<div class="row">
-
-			<?php 
-				include("boilers/event1-right.php");
-				include("boilers/event1.php");
-				include("boilers/event1.php");
-				 ?>
-
-			</div><!--row-->
-		</div><!-- event-list-body-->
-		</div>
 
 		<script src="js/bootstrap.min.js"></script>
 		<script src="js/jquery-2.2.0.min.js"></script>

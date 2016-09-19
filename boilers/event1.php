@@ -11,7 +11,7 @@
 					</div>
 					<div class="event-description">
 						<img src="images/devcon-icon.png">
-						<img src="images/ibm.png">
+						
 					</div><br>
 
 					<div class="event-description">

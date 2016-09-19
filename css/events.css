@@ -5,37 +5,6 @@
 
 .main-nav{
 	height:75px;
-	background:rgba(39,113,163,0.7);
+	background:rgb(39,113,163);
 	width:100%;
-}
-#event-card{
-	margin:.5em .2em .2em .2em;
-	max-width:25em;
-	height: 21em;
-}
-
-.nav-title{
-	padding:0 0 1em 0;
-	box-shadow: 0 8px 17px 0 rgba(0, 0, 0, 0.2)
-}
-#header-text{
-	margin:0.5em 0 0 2em;
-}
-.event-list-wrapper{
-	background: #E5E5E5;
-	margin: 0 0 0 -1em;
-}
-.time-text{
-	font-size:16px;
-}
-.location-text{
-	font-size:10px;
-}
-a:link{
-	text-decoration: none;
-	color:none;
-}
-a:visited{
-	text-decoration: none;
-	color:none;
 }
