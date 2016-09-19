@@ -1,0 +1,16 @@
+#events-list{
+	margin-top:20px;
+}
+
+.events-list-item{
+	height:150px;
+	border:solid #8F8F8F 1px;
+	margin-top:10px;
+}
+
+
+.event-pic{
+	height:150px;
+	width:100%;
+	margin:0px;
+}

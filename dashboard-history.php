@@ -6,7 +6,7 @@
 		<link rel="stylesheet" type="text/css" href="css/nav.css">
 		<link rel="stylesheet" type="text/css" href="css/cards.css">
 		<link rel="stylesheet" type="text/css" href="css/dashboard.css">
-		
+		<link rel="stylesheet" type="text/css" href="css/events-history.css">
 	</head>
 	<body>
 		<?php
@@ -16,12 +16,14 @@
 
 		
 		<div class="main-content">
-			<?php
-				include("boilers/event-card.php");
+			<h2>Events History</h2>
+				<?php
+					include("boilers/events-list.php");
+					?>
 				
-				include("boilers/new-event-card.php");
-				?>
-				
+
+
+			
 		</div>
 
 
