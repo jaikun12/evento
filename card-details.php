@@ -22,12 +22,11 @@
 					<img class="" style="max-height:250px;max-width:500px;" src="images/content_file4.png">
 				</div>
 				<div class="col-md-7">
-					Title:
-					<input type="text" class="form-control" placeholder="Bluemix Event">
-					<br>When:
-					<input type="text" class="form-control" placeholder="THURS, 22 Sept, 2016">
+					<h2>Bluemix Challenge</h2>
+					<br>
+					THURS, 22 Sept, 2016
 					<br>Description:
-					<textarea type="text" class="form-control" style="height:150px" placeholder="Bluemix Challenge is a competition that aims to engage students in app development as they solve real world challenges using Bluemix technologies. For the ITIP Edition, the objective is to automate selected process of the ITIP National Conference.">Bluemix Challenge is a competition that aims to engage students in app development as they solve real world challenges using Bluemix technologies. For the ITIP Edition, the objective is to automate selected process of the ITIP National Conference.</textarea>
+					<p>Bluemix Challenge is a competition that aims to engage students in app development as they solve real world challenges using Bluemix technologies. For the ITIP Edition, the objective is to automate selected process of the ITIP National Conference.</p>
 				</div>
 
 			</div>
