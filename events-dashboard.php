@@ -17,6 +17,7 @@
 		
 		<div class="main-content">
 			<?php
+				include("boilers/event-bluemix.php");
 				include("boilers/event-card.php");
 				
 				include("boilers/new-event-card.php");
