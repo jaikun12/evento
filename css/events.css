@@ -5,38 +5,31 @@
 
 .main-nav{
 	height:75px;
-	background:;
 	background:rgba(39,113,163,0.7);
 	width:100%;
 }
-.add-event-pic{
-	margin:2em -1.8em 0em 6em;
-	height:30px;
-	width:30px;
+#event-card{
+	margin:1em .5em .5em 3em;
+	max-width:25em;
+	height: 21em;
 }
-.event-wrapper{
-	margin:1em 1em 1em 1em;
-	max-height:20em;
-	max-width:80em;
-}
-.event-cards-container{
-	
-}
-.event-cards-hover:hover{
-	margin:-1px;
-	border:solid 1px #A7A9A3;
+
+.nav-title{
+	padding:0 0 1em 0;
+	box-shadow: 0 8px 17px 0 rgba(0, 0, 0, 0.2)
 }
 #header-text{
-	margin:2em 0em 0em 6em;
+	margin:0.5em 0 0 2em;
 }
-#event-pics{
-	margin:1em;
-	max-width: 19em;
-	max-height: 14em;
+.event-list-wrapper{
+	background: #E5E5E5;
+	margin: 0 0 0 -1em;
 }
-.event-header{
-	margin:.1em .2em .2em 2em;
+a:link{
+	text-decoration: none;
+	color:none;
 }
-.event-description{
-	margin:.1em .2em .2em 2em;
+a:visited{
+	text-decoration: none;
+	color:none;
 }
