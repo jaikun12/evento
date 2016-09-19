@@ -1,0 +1,17 @@
+*{
+	box-sizing:border-box;
+	font-family:'Open Sans';
+}
+
+h1,h2,h3,h4,h5{
+	margin:0;
+}
+
+
+nav{
+	height:75px;
+	border-bottom:solid #A9A9A9 1px;
+	padding:20px;
+	background:white;
+}
+

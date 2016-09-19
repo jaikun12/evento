@@ -16,7 +16,11 @@
 
 		
 		<div class="main-content">
-
+			<h2>Bluemix Event</h2>
+			<div class="col-sm-4 pull-right">
+			<input type="text" class="form-control" placeholder="Search..">
+			</div>
+			<br>
 			<?php include("boilers/tables/sample-table.php"); ?>
 				
 		</div>

@@ -1,0 +1,11 @@
+.hollow-btn{
+	padding:5px 15px;
+	color:white;
+	border:solid white 1px;
+	margin:20px;
+}
+
+.hollow-btn:hover{
+	text-decoration:none;
+	color:white;
+}

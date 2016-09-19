@@ -1,4 +1,4 @@
-<div class="table-responsive">
+<div class="table-responsive" style="clear:both">
 	<table class="table table-hover">
 		<thead>
 			<tr>
