@@ -11,16 +11,13 @@
 	<body>
 		<?php
 			include("boilers/nav.php");
-			include("boilers/sidenav-myevents.php");
-			?>
+			include("boilers/sidenav-event-monitoring.php");
+		?>
 
 		
 		<div class="main-content">
-			<?php
-				include("boilers/event-card.php");
-				
-				include("boilers/new-event-card.php");
-				?>
+
+			<?php include("boilers/tables/sample-table.php"); ?>
 				
 		</div>
 
