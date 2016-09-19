@@ -18,8 +18,9 @@
 		<div class="main-content">
 			<div class="col-md-7">
 				<h2>Scan the tickets of the attendees</h2><br><br>
+				(actual webcam or photo from a device)
 
-				<img src="images/cam-sample.png" style="height:450px;width:600px">
+				<img src="images/cam-sample.jpeg" style="height:450px;width:600px">
 			</div>
 			<div class="col-md-5">
 				<table class="table table-bordered table-hover">
