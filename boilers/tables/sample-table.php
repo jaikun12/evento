@@ -2,7 +2,7 @@
 	<table class="table table-hover">
 		<thead>
 			<tr>
-				<th>Ticket No.</th>
+				<th>Ticket ID</th>
 				<th>First Name</th>
 				<th>Last Name</th>
 				<th>Time</th>

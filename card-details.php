@@ -144,14 +144,15 @@
 		</div>
 
 		<div class="col-md-4">
-			<br><br><br><br><br>Include the schedule in your phone calendar!<br><br>
-			<h5>QR CODE:</h5>
+			<br><br><br><br><br><h5>Include the schedule in your phone calendar!</h5>
 			<img src="images/qr-sample.jpg" style="max-height:300px;max-width:300px">
 			<br><br><a href="">Click for larger view</a>
 		</div>
+
+
 		<div class="col-md-8">
 		<br>
-			<h2>Oct 1</h2><br>
+			<h2>Details: Oct 1</h2><br>
 				<table class="table table-bordered table-hover">
 					<thead>
 						<tr>
