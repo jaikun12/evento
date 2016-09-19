@@ -6,6 +6,6 @@
 					<p class="card-title">Create a new Event</p>
 					<div class="divider"></div>
 					<p class="card-sched"></p>
-					<a class="card-link" href="create_route.php">Create Here</a>
+					<a class="card-link" href="create-event.php">Create Here</a>
 				</div>
 			</div>

@@ -43,7 +43,7 @@
 				<h5>28/F, One World Place, 32nd St., BGC, Taguig City<br><br>
 
 				<br>Sep 14, 2016 8:00AM<br><br>until<br><br> Oct 07, 2016 7:00PM</h5> <br>
-				<button type="button" class="btn btn-primary">Edit Event</button>
+				<button type="button" class="btn btn-primary" action="edit-events.php">Edit Event</button>
 			</div>
 			<div class="col-md-1">
 			</div>

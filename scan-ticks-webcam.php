@@ -19,7 +19,7 @@
 			<div class="col-md-7">
 				<h2>Scan the tickets of the attendees</h2><br><br>
 
-				<img src="images/cam-loading.gif" style="height:450px;width:600px">
+				<img src="images/cam-sample.png" style="height:450px;width:600px">
 			</div>
 			<div class="col-md-5">
 				<table class="table table-bordered table-hover">

@@ -2,10 +2,11 @@
 <html>
 	<head>
 		<link href="https://fonts.googleapis.com/css?family=Open+Sans|Roboto" rel="stylesheet"> 
-		<link rel="stylesheet" type="text/css" href="css/bootstrap-material-design.min.css">
 		<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
 		<link rel="stylesheet" type="text/css" href="css/events.css">
 		<link rel="stylesheet" type="text/css" href="css/nav.css">
+		<link rel="stylesheet" type="text/css" href="css/dashboard.css">
+
 
 
 	</head>
@@ -25,23 +26,19 @@
 			include("boilers/nav.php");
 			include("boilers/sidenav-myevents.php");
 			?>
-
-		<div class="container-fluid row nav-title">
-			<div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
-				<h3 id="header-text">Create Event</h3>
-			</div>			
-		</div>
-			<div class="well container" style="margin-top:1em">
-				<label>Create a title for your event</label>
+		<div class="main-content">
+			<h2>Create Event</h2><hr>
+			<div class="container-fluid" style="margin-top:1em"><label>Create a title for your event</label>
 				<input type="text" name="" id="input" class="form-control" value="" required="required" pattern="" title="">
 				<br><br>
 				<label>Create a short description for your event</label>
-				<textarea name="" id="input" class="form-control" rows="3" required="required"></textarea>
+				<textarea name="" id="input" class="form-control" rows="6" required="required"></textarea><br>
 				<label>Where</label>
-				<div id="map" style="width:100%;height:500px"></div>
+				<div id="map" style="width:100%;height:500px"></div><br>
 				<label>When</label>
 				<input type="text" name="" id="input" class="form-control" value="" required="required" pattern="" title="">
 			</div>
+		</div>
 
 		<script src="js/bootstrap.min.js"></script>
 		<script src="js/jquery-2.2.0.min.js"></script>

@@ -56,7 +56,9 @@
 			</div>
 
 		</div>
-
+		<div class="container">
+			<a href="scan-ticks-webcam.php"  style="margin:0 0 0 10em">goto prototype real-pic</a>
+		</div>
 
 		<script src="js/bootstrap.min.js"></script>
 		<script src="js/jquery-2.2.0.min.js"></script>

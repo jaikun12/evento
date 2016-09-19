@@ -3,7 +3,7 @@
 			<ul id="nav-menu" class="list-inline">
 				<li><a href="#"><div class="menu-item">Home</div></a></li>
 				<li><a href="events-dashboard.php"><div class="menu-item">My Events</div></a></li>
-				<li><a href="participants.php"><div class="menu-item">My Participants</div></a></li>
+				<li><a href="participant-home.php"><div class="menu-item">My Participants</div></a></li>
 				<li><a href="myprofile-org.php"><div class="menu-item">My Profile</div></a></li>
 			</ul>
 			<a href="index.php" id="logout-btn">Logout</a>
