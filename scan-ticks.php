@@ -43,12 +43,12 @@
 						</tr>
 						<tr>
 							<td>123G123</td>
-							<td>Boaz Sze</td>
+							<td>Richard Catubag</td>
 							<td>2016-09-22 12:43:23</td>
 						</tr>
 						<tr>
 							<td>123G123</td>
-							<td>Lawrence De Leon</td>
+							<td>John Lim</td>
 							<td>2016-09-22 12:43:23</td>
 						</tr>
 					</tbody>
