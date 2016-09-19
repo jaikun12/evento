@@ -1,4 +1,5 @@
 <div class="col-sm-4">
+<a href="event-preview.php">
 <div class="card">
 				<div class="card-img-container">
 					<img class="card-img" src="images/event-pic1.png">
@@ -11,9 +12,11 @@
 						Mckinley Hill, Taguig City</p>
 				</div>
 			</div>
+			</a>
 </div>
 
 		<div class="col-sm-4">
+		<a href="event-preview.php">
 			<div class="card">
 				<div class="card-img-container">
 					<img class="card-img" src="images/stockpic1.jpg">
@@ -26,9 +29,11 @@
 						Mckinley Hill, Taguig City</p>
 				</div>
 			</div>
+			</a>
 		</div>
 
 		<div class="col-sm-4">
+		<a href="event-preview.php">
 			<div class="card">
 				<div class="card-img-container">
 					<img class="card-img" src="images/stockpic2.jpg">
@@ -41,4 +46,5 @@
 						Mckinley Hill, Taguig City</p>
 				</div>
 			</div>
+			</a>
 		</div>
