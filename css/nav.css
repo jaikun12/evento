@@ -3,17 +3,21 @@ nav{
 	height:75px;
 	background:rgb(39,113,140);
 	padding:5px;
+	overflow:hidden;
+	font-family:'Open Sans';
 }
 
 .brand{
 	float:left;
-	width:50px;
-	height:50px;
+	width:75px;
+	height:75px;
 	margin-left:15px;
 }
 
 #nav-menu{
 	margin-top:20px;
+	float:left;
+	width:50%;
 }
 
 #nav-menu li{
@@ -23,5 +27,45 @@ nav{
 #nav-menu li a{
 	color:white;
 	text-decoration:none;
+	font-weight:600;
 
+}
+
+#nav-menu li a div{
+	border-bottom:solid rgb(39,113,140) 5px;
+	padding:12px;
+
+}
+
+#nav-menu li a div:hover{
+	border-bottom:solid white 5px;
+}
+
+#logout-btn{
+	margin:25px;
+	float:right;
+	color:white;
+	padding:5px 15px;
+	border:solid white 1px;
+	text-decoration:none;
+
+}
+
+#logout-btn:hover{
+	background:white;
+	color:rgb(39,113,140);
+}
+
+.user-greeting{
+	float:right;
+	height:75px;
+	overflow:hidden;
+	margin-top:10px;
+	padding:5px 15px;
+}
+
+.user-dp{
+	height:50px;
+	width:50px;
+	margin-right:10px;
 }

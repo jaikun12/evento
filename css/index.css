@@ -4,8 +4,12 @@
 }
 
 body{
-	background:url(../images/landingbg.jpg);
+	overflow-x:hidden;
 
+}
+
+.body-wrap{
+	background:url(../images/landingbg.jpg);
 }
 
 .main-content{
@@ -53,4 +57,15 @@ body{
 .button-1:hover{
 	background:white;
 	color:#007aff;
+}
+
+#registration{
+	
+	background:#484848;
+	padding:100px;
+}
+
+.full-height{
+	height:100vh;
+	width:100vw;
 }

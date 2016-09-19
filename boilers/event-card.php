@@ -8,6 +8,7 @@
 					<p class="card-sched"><strong>Attendees:</strong> 52<br><br>
 						THURS, 22 Sept, 2016<br>
 						Mckinley Hill, Taguig City</p>
-					<a class="card-link" href="card-details.php">See Details</a>
+					<a class="card-link" href="card-details.php">See Details</a><br>
+					<a class="card-link" href="card-details.php">Manage</a>
 				</div>
 			</div>
