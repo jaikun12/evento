@@ -9,7 +9,7 @@
 	width:100%;
 }
 #event-card{
-	margin:1em .5em .5em 3em;
+	margin:.5em .2em .2em .2em;
 	max-width:25em;
 	height: 21em;
 }
@@ -24,6 +24,12 @@
 .event-list-wrapper{
 	background: #E5E5E5;
 	margin: 0 0 0 -1em;
+}
+.time-text{
+	font-size:16px;
+}
+.location-text{
+	font-size:10px;
 }
 a:link{
 	text-decoration: none;

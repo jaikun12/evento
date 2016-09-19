@@ -12,7 +12,7 @@
 		<div class="main-content">
 			<center>
 				<img src="images/evento-logo-white.png" class="main-logo">
-				<form class="login-form">
+				<form class="login-form" action="events-dashboard.php">
 					<div class="form-group">
 						<input type="text" class="form-control" name="user_name" placeholder="Username">
 					</div>
