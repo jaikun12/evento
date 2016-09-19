@@ -1,0 +1,21 @@
+body{
+	overflow-x:hidden;
+}
+
+#intro-img img{
+	height:70vh;
+	width::100%;
+	margin:0px;
+}
+
+#intro-img{
+	height:70vh;
+	width:100vw;
+}
+
+.custom-container{
+	/*border:solid black 1px;*/
+	width:80%;
+	margin:0 auto;
+	padding:30px;
+}

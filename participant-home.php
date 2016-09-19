@@ -9,11 +9,9 @@
 		<link rel="stylesheet" type="text/css" href="css/user-home.css">
 	</head>
 	<body>
-		<nav class="container-fluid">	
-			<div class="col-sm-4">
-				<h3 style="color:#006FBE">Evento</h3>
-			</div>
-		</nav>
+		<?php
+			include('boilers/user-nav.php');
+			?>
 		<body>
 			<div class="background">
 			<div id="welcome-div" class="container-fluid">
