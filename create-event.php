@@ -21,9 +21,10 @@
 			}
 		</script>
 
-		<nav class="main-nav">
-			<!--img src="images/evento-logo-white.png" class="brand"-->
-		</nav>
+		<?php
+			include("boilers/nav.php");
+			include("boilers/sidenav-myevents.php");
+			?>
 
 		<div class="container-fluid row nav-title">
 			<div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
